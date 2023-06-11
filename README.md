@@ -1,3 +1,6 @@
+Enter your GitHub username in the search box 
+/*To run, install Node.js, set up npm and yarn on PC*/.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
